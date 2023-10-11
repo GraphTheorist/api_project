@@ -1,1 +1,1 @@
-# api_project
+# Server handling API calls for E-commerce website
